@@ -1,0 +1,113 @@
+* {
+    background-color: white;
+    margin: auto;
+    padding: 20px;
+
+}
+
+.containerfonts, .containerstyles, .containercolors {
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.containercolors div {
+    display: flex;
+}
+
+.containercolors p {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 30px 50px;
+}
+
+.containercolors h2 {
+    text-align: center;
+}
+
+.containerfonts h2{
+    text-align: center;
+}
+
+
+
+.green {
+    background-color: #84D016;
+}
+
+.yellow {
+    background-color: #F5FF0A;
+}
+
+.red {
+    background-color: #FF210A;
+}
+
+.opensans ul {
+    list-style: none;
+    font-family: 'Open Sans';
+}
+
+.opensans ul li.strong {
+    font-weight: bold;
+}
+
+.opensans ul li.em {
+    font-style: italic;
+}
+
+.allfonts {
+    display: flex;
+}
+
+.opensans h3 {
+    text-align: center;
+}
+
+.Montserratalternates ul {
+    list-style: none;
+}
+
+.Montserratalternates ul li.strong {
+    font-weight: bold;
+}
+
+.Montserratalternates ul li.em {
+    font-style: italic;
+}
+
+.Montserratalternates {
+    font-family: 'Montserrat Alternates';
+}
+
+.Montserratalternates h3 {
+    text-align: center;
+}
+
+.Allison ul {
+    list-style: none;
+}
+
+.Allison h3 {
+    text-align: center;
+}
+
+.Allison ul li.strong {
+    font-weight: bold;
+}
+
+.Allison ul li.em {
+    font-style: italic;
+}
+
+.headercontainer {
+    text-align: center;
+}
+
+.textstylecontainer {
+    display: flex;
+}
+
+.containerstyles h2 {
+    text-align: center;
+}
